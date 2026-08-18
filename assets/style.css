@@ -102,7 +102,7 @@ body:before {
 }
 .site-header.scrolled {
   padding: 9px 0;
-  background: rgba(0, 0, 0, 0.93);
+  background: rgba(222, 209, 62, 0.93);
   backdrop-filter: blur(18px);
   border-bottom: 1px solid var(--line);
 }
@@ -1565,7 +1565,8 @@ body:before {
   border-color: rgba(255, 255, 255, 0.18);
 }
 .home-page .site-header.scrolled {
-    background: rgba(0, 0, 0, 0.88);
+      background: rgba(12, 10, 4, 0.90);
+
 
   border-color: rgba(255, 255, 255, 0.16);
   backdrop-filter: blur(10px);
